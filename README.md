@@ -1,1 +1,2 @@
 # Streamline-Netflix-Stock-Trends
+This project presents a detailed time-series analysis of Netflix stock data using Python, Pandas, and Plotly. It explores daily, monthly, and yearly trends in stock prices, including opening, closing, high, and low values, as well as trading volume. The analysis identifies key dates with significant price movements and visualizes overall stock performance over time. Through interactive charts and grouped insights, the notebook offers a clear understanding of Netflix’s stock behavior and market patterns.
